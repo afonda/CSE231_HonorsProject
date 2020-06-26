@@ -1,0 +1,587 @@
+Player A Goes First!
+0     1     2     3  
+                     
+4     5     6     7  
+                     
+8     9     10    11 
+                     
+12    13    14    15 
+Smart AI Moving For Player A: 
+Line Placed Between 0 and 1
+0  -  1     2     3  
+                     
+4     5     6     7  
+                     
+8     9     10    11 
+                     
+12    13    14    15 
+Score is A:0 and B:0
+
+AI Moving For Player B: 
+Line Placed Between 10 and 14
+0  -  1     2     3  
+                     
+4     5     6     7  
+                     
+8     9     10    11 
+            |        
+12    13    14    15 
+Score is A:0 and B:0
+
+Smart AI Moving For Player A: 
+Line Placed Between 0 and 4
+0  -  1     2     3  
+|                    
+4     5     6     7  
+                     
+8     9     10    11 
+            |        
+12    13    14    15 
+Score is A:0 and B:0
+
+AI Moving For Player B: 
+Line Placed Between 9 and 10
+0  -  1     2     3  
+|                    
+4     5     6     7  
+                     
+8     9  -  10    11 
+            |        
+12    13    14    15 
+Score is A:0 and B:0
+
+Smart AI Moving For Player A: 
+Line Placed Between 4 and 5
+0  -  1     2     3  
+|                    
+4  -  5     6     7  
+                     
+8     9  -  10    11 
+            |        
+12    13    14    15 
+Score is A:0 and B:0
+
+AI Moving For Player B: 
+Line Placed Between 4 and 8
+0  -  1     2     3  
+|                    
+4  -  5     6     7  
+|                    
+8     9  -  10    11 
+            |        
+12    13    14    15 
+Score is A:0 and B:0
+
+Smart AI Moving For Player A: 
+Smart AI Found A Move That Will Result In A Box!
+Line Placed Between 1 and 5
+0  -  1     2     3  
+|  A  |              
+4  -  5     6     7  
+|                    
+8     9  -  10    11 
+            |        
+12    13    14    15 
+Score is A:1 and B:0
+1 Box Made This Turn! Player A Taking Another Turn
+
+Smart AI Moving For Player A: 
+Line Placed Between 8 and 9
+0  -  1     2     3  
+|  A  |              
+4  -  5     6     7  
+|                    
+8  -  9  -  10    11 
+            |        
+12    13    14    15 
+Score is A:1 and B:0
+
+AI Moving For Player B: 
+Line Placed Between 7 and 11
+0  -  1     2     3  
+|  A  |              
+4  -  5     6     7  
+|                 |  
+8  -  9  -  10    11 
+            |        
+12    13    14    15 
+Score is A:1 and B:0
+
+Smart AI Moving For Player A: 
+Smart AI Found A Move That Will Result In A Box!
+Line Placed Between 5 and 9
+0  -  1     2     3  
+|  A  |              
+4  -  5     6     7  
+|  A  |           |  
+8  -  9  -  10    11 
+            |        
+12    13    14    15 
+Score is A:2 and B:0
+1 Box Made This Turn! Player A Taking Another Turn
+
+Smart AI Moving For Player A: 
+Line Placed Between 8 and 12
+0  -  1     2     3  
+|  A  |              
+4  -  5     6     7  
+|  A  |           |  
+8  -  9  -  10    11 
+|           |        
+12    13    14    15 
+Score is A:2 and B:0
+
+AI Moving For Player B: 
+Line Placed Between 10 and 11
+0  -  1     2     3  
+|  A  |              
+4  -  5     6     7  
+|  A  |           |  
+8  -  9  -  10 -  11 
+|           |        
+12    13    14    15 
+Score is A:2 and B:0
+
+Smart AI Moving For Player A: 
+Line Placed Between 12 and 13
+0  -  1     2     3  
+|  A  |              
+4  -  5     6     7  
+|  A  |           |  
+8  -  9  -  10 -  11 
+|           |        
+12 -  13    14    15 
+Score is A:2 and B:0
+
+AI Moving For Player B: 
+Line Placed Between 3 and 7
+0  -  1     2     3  
+|  A  |           |  
+4  -  5     6     7  
+|  A  |           |  
+8  -  9  -  10 -  11 
+|           |        
+12 -  13    14    15 
+Score is A:2 and B:0
+
+Smart AI Moving For Player A: 
+Smart AI Found A Move That Will Result In A Box!
+Line Placed Between 9 and 13
+0  -  1     2     3  
+|  A  |           |  
+4  -  5     6     7  
+|  A  |           |  
+8  -  9  -  10 -  11 
+|  A  |     |        
+12 -  13    14    15 
+Score is A:3 and B:0
+1 Box Made This Turn! Player A Taking Another Turn
+
+Smart AI Moving For Player A: 
+Smart AI Found A Move That Will Result In A Box!
+Line Placed Between 13 and 14
+0  -  1     2     3  
+|  A  |           |  
+4  -  5     6     7  
+|  A  |           |  
+8  -  9  -  10 -  11 
+|  A  |  A  |        
+12 -  13 -  14    15 
+Score is A:4 and B:0
+1 Box Made This Turn! Player A Taking Another Turn
+
+Smart AI Moving For Player A: 
+Line Placed Between 1 and 2
+0  -  1  -  2     3  
+|  A  |           |  
+4  -  5     6     7  
+|  A  |           |  
+8  -  9  -  10 -  11 
+|  A  |  A  |        
+12 -  13 -  14    15 
+Score is A:4 and B:0
+
+AI Moving For Player B: 
+Line Placed Between 6 and 7
+0  -  1  -  2     3  
+|  A  |           |  
+4  -  5     6  -  7  
+|  A  |           |  
+8  -  9  -  10 -  11 
+|  A  |  A  |        
+12 -  13 -  14    15 
+Score is A:4 and B:0
+
+Smart AI Moving For Player A: 
+Smart AI Found A Move That Will Result In A Box!
+Line Placed Between 6 and 10
+0  -  1  -  2     3  
+|  A  |           |  
+4  -  5     6  -  7  
+|  A  |     |  A  |  
+8  -  9  -  10 -  11 
+|  A  |  A  |        
+12 -  13 -  14    15 
+Score is A:5 and B:0
+1 Box Made This Turn! Player A Taking Another Turn
+
+Smart AI Moving For Player A: 
+Smart AI Found A Move That Will Result In A Box!
+Line Placed Between 5 and 6
+0  -  1  -  2     3  
+|  A  |           |  
+4  -  5  -  6  -  7  
+|  A  |  A  |  A  |  
+8  -  9  -  10 -  11 
+|  A  |  A  |        
+12 -  13 -  14    15 
+Score is A:6 and B:0
+1 Box Made This Turn! Player A Taking Another Turn
+
+Smart AI Moving For Player A: 
+Smart AI Found A Move That Will Result In A Box!
+Line Placed Between 2 and 6
+0  -  1  -  2     3  
+|  A  |  A  |     |  
+4  -  5  -  6  -  7  
+|  A  |  A  |  A  |  
+8  -  9  -  10 -  11 
+|  A  |  A  |        
+12 -  13 -  14    15 
+Score is A:7 and B:0
+1 Box Made This Turn! Player A Taking Another Turn
+
+Smart AI Moving For Player A: 
+Smart AI Found A Move That Will Result In A Box!
+Line Placed Between 2 and 3
+0  -  1  -  2  -  3  
+|  A  |  A  |  A  |  
+4  -  5  -  6  -  7  
+|  A  |  A  |  A  |  
+8  -  9  -  10 -  11 
+|  A  |  A  |        
+12 -  13 -  14    15 
+Score is A:8 and B:0
+1 Box Made This Turn! Player A Taking Another Turn
+
+Smart AI Moving For Player A: 
+Line Placed Between 14 and 15
+0  -  1  -  2  -  3  
+|  A  |  A  |  A  |  
+4  -  5  -  6  -  7  
+|  A  |  A  |  A  |  
+8  -  9  -  10 -  11 
+|  A  |  A  |        
+12 -  13 -  14 -  15 
+Score is A:8 and B:0
+
+AI Moving For Player B: 
+Line Placed Between 11 and 15
+0  -  1  -  2  -  3  
+|  A  |  A  |  A  |  
+4  -  5  -  6  -  7  
+|  A  |  A  |  A  |  
+8  -  9  -  10 -  11 
+|  A  |  A  |  B  |  
+12 -  13 -  14 -  15 
+Score is A:8 and B:1
+
+Game Over!
+Final Score: A:8 B:1
+Player A Wins!
+
+
+Game 2!
+
+Player B Goes First!
+0     1     2     3  
+                     
+4     5     6     7  
+                     
+8     9     10    11 
+                     
+12    13    14    15 
+AI Moving For Player B: 
+Line Placed Between 5 and 9
+0     1     2     3  
+                     
+4     5     6     7  
+      |              
+8     9     10    11 
+                     
+12    13    14    15 
+Score is A:0 and B:0
+
+Smart AI Moving For Player A: 
+Line Placed Between 0 and 1
+0  -  1     2     3  
+                     
+4     5     6     7  
+      |              
+8     9     10    11 
+                     
+12    13    14    15 
+Score is A:0 and B:0
+
+AI Moving For Player B: 
+Line Placed Between 12 and 13
+0  -  1     2     3  
+                     
+4     5     6     7  
+      |              
+8     9     10    11 
+                     
+12 -  13    14    15 
+Score is A:0 and B:0
+
+Smart AI Moving For Player A: 
+Line Placed Between 0 and 4
+0  -  1     2     3  
+|                    
+4     5     6     7  
+      |              
+8     9     10    11 
+                     
+12 -  13    14    15 
+Score is A:0 and B:0
+
+AI Moving For Player B: 
+Line Placed Between 11 and 15
+0  -  1     2     3  
+|                    
+4     5     6     7  
+      |              
+8     9     10    11 
+                  |  
+12 -  13    14    15 
+Score is A:0 and B:0
+
+Smart AI Moving For Player A: 
+Line Placed Between 4 and 5
+0  -  1     2     3  
+|                    
+4  -  5     6     7  
+      |              
+8     9     10    11 
+                  |  
+12 -  13    14    15 
+Score is A:0 and B:0
+
+AI Moving For Player B: 
+Line Placed Between 8 and 9
+0  -  1     2     3  
+|                    
+4  -  5     6     7  
+      |              
+8  -  9     10    11 
+                  |  
+12 -  13    14    15 
+Score is A:0 and B:0
+
+Smart AI Moving For Player A: 
+Smart AI Found A Move That Will Result In A Box!
+Line Placed Between 4 and 8
+0  -  1     2     3  
+|                    
+4  -  5     6     7  
+|  A  |              
+8  -  9     10    11 
+                  |  
+12 -  13    14    15 
+Score is A:1 and B:0
+1 Box Made This Turn! Player A Taking Another Turn
+
+Smart AI Moving For Player A: 
+Smart AI Found A Move That Will Result In A Box!
+Line Placed Between 1 and 5
+0  -  1     2     3  
+|  A  |              
+4  -  5     6     7  
+|  A  |              
+8  -  9     10    11 
+                  |  
+12 -  13    14    15 
+Score is A:2 and B:0
+1 Box Made This Turn! Player A Taking Another Turn
+
+Smart AI Moving For Player A: 
+Line Placed Between 8 and 12
+0  -  1     2     3  
+|  A  |              
+4  -  5     6     7  
+|  A  |              
+8  -  9     10    11 
+|                 |  
+12 -  13    14    15 
+Score is A:2 and B:0
+
+AI Moving For Player B: 
+Line Placed Between 14 and 15
+0  -  1     2     3  
+|  A  |              
+4  -  5     6     7  
+|  A  |              
+8  -  9     10    11 
+|                 |  
+12 -  13    14 -  15 
+Score is A:2 and B:0
+
+Smart AI Moving For Player A: 
+Smart AI Found A Move That Will Result In A Box!
+Line Placed Between 9 and 13
+0  -  1     2     3  
+|  A  |              
+4  -  5     6     7  
+|  A  |              
+8  -  9     10    11 
+|  A  |           |  
+12 -  13    14 -  15 
+Score is A:3 and B:0
+1 Box Made This Turn! Player A Taking Another Turn
+
+Smart AI Moving For Player A: 
+Line Placed Between 1 and 2
+0  -  1  -  2     3  
+|  A  |              
+4  -  5     6     7  
+|  A  |              
+8  -  9     10    11 
+|  A  |           |  
+12 -  13    14 -  15 
+Score is A:3 and B:0
+
+AI Moving For Player B: 
+Line Placed Between 13 and 14
+0  -  1  -  2     3  
+|  A  |              
+4  -  5     6     7  
+|  A  |              
+8  -  9     10    11 
+|  A  |           |  
+12 -  13 -  14 -  15 
+Score is A:3 and B:0
+
+Smart AI Moving For Player A: 
+Line Placed Between 5 and 6
+0  -  1  -  2     3  
+|  A  |              
+4  -  5  -  6     7  
+|  A  |              
+8  -  9     10    11 
+|  A  |           |  
+12 -  13 -  14 -  15 
+Score is A:3 and B:0
+
+AI Moving For Player B: 
+Line Placed Between 6 and 10
+0  -  1  -  2     3  
+|  A  |              
+4  -  5  -  6     7  
+|  A  |     |        
+8  -  9     10    11 
+|  A  |           |  
+12 -  13 -  14 -  15 
+Score is A:3 and B:0
+
+Smart AI Moving For Player A: 
+Smart AI Found A Move That Will Result In A Box!
+Line Placed Between 9 and 10
+0  -  1  -  2     3  
+|  A  |              
+4  -  5  -  6     7  
+|  A  |  A  |        
+8  -  9  -  10    11 
+|  A  |           |  
+12 -  13 -  14 -  15 
+Score is A:4 and B:0
+1 Box Made This Turn! Player A Taking Another Turn
+
+Smart AI Moving For Player A: 
+Smart AI Found A Move That Will Result In A Box!
+Line Placed Between 2 and 6
+0  -  1  -  2     3  
+|  A  |  A  |        
+4  -  5  -  6     7  
+|  A  |  A  |        
+8  -  9  -  10    11 
+|  A  |           |  
+12 -  13 -  14 -  15 
+Score is A:5 and B:0
+1 Box Made This Turn! Player A Taking Another Turn
+
+Smart AI Moving For Player A: 
+Smart AI Found A Move That Will Result In A Box!
+Line Placed Between 10 and 14
+0  -  1  -  2     3  
+|  A  |  A  |        
+4  -  5  -  6     7  
+|  A  |  A  |        
+8  -  9  -  10    11 
+|  A  |  A  |     |  
+12 -  13 -  14 -  15 
+Score is A:6 and B:0
+1 Box Made This Turn! Player A Taking Another Turn
+
+Smart AI Moving For Player A: 
+Smart AI Found A Move That Will Result In A Box!
+Line Placed Between 10 and 11
+0  -  1  -  2     3  
+|  A  |  A  |        
+4  -  5  -  6     7  
+|  A  |  A  |        
+8  -  9  -  10 -  11 
+|  A  |  A  |  A  |  
+12 -  13 -  14 -  15 
+Score is A:7 and B:0
+1 Box Made This Turn! Player A Taking Another Turn
+
+Smart AI Moving For Player A: 
+Line Placed Between 2 and 3
+0  -  1  -  2  -  3  
+|  A  |  A  |        
+4  -  5  -  6     7  
+|  A  |  A  |        
+8  -  9  -  10 -  11 
+|  A  |  A  |  A  |  
+12 -  13 -  14 -  15 
+Score is A:7 and B:0
+
+AI Moving For Player B: 
+Line Placed Between 7 and 11
+0  -  1  -  2  -  3  
+|  A  |  A  |        
+4  -  5  -  6     7  
+|  A  |  A  |     |  
+8  -  9  -  10 -  11 
+|  A  |  A  |  A  |  
+12 -  13 -  14 -  15 
+Score is A:7 and B:0
+
+Smart AI Moving For Player A: 
+Smart AI Found A Move That Will Result In A Box!
+Line Placed Between 6 and 7
+0  -  1  -  2  -  3  
+|  A  |  A  |        
+4  -  5  -  6  -  7  
+|  A  |  A  |  A  |  
+8  -  9  -  10 -  11 
+|  A  |  A  |  A  |  
+12 -  13 -  14 -  15 
+Score is A:8 and B:0
+1 Box Made This Turn! Player A Taking Another Turn
+
+Smart AI Moving For Player A: 
+Smart AI Found A Move That Will Result In A Box!
+Line Placed Between 3 and 7
+0  -  1  -  2  -  3  
+|  A  |  A  |  A  |  
+4  -  5  -  6  -  7  
+|  A  |  A  |  A  |  
+8  -  9  -  10 -  11 
+|  A  |  A  |  A  |  
+12 -  13 -  14 -  15 
+Score is A:9 and B:0
+
+Game Over!
+Final Score: A:9 B:0
+Player A Wins!

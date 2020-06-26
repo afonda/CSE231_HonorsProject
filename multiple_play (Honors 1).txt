@@ -1,0 +1,13 @@
+Number Of Rounds Played: 1000000
+Overall AVG Score: 4.5
+AVG Score For Player A: 4.499089
+AVG Score For Player B: 4.500911
+Times Player A Won: 499811
+Times Player B Won: 500189
+Overall Median Score: 5
+Median Score For Player A: 4
+Median Score For Player B: 5
+Highest Score For Player A: 9
+Lowest Score For Player A: 0
+Highest Score For Player B: 9
+Lowest Score For Player B: 0
